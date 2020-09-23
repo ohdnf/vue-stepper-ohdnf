@@ -8,6 +8,7 @@
     "url": "https://github.com/ohdnf/vue-stepper-ohdnf"
   },
   "license": "MIT",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
